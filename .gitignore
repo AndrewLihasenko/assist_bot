@@ -1,0 +1,16 @@
+*.pyc
+*~
+.idea
+__pycache__
+assist_bot_origin.py
+config.py
+FreeSans.cw127.pkl
+FreeSans.pkl
+FreeSans.ttf
+procexp.exe
+pskill.exe
+pyfpdf
+telebot_users.json
+venv
+webhook_cert.pem
+webhook_pkey.pem
